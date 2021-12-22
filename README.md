@@ -3,7 +3,7 @@ WATT is an Excel spreadsheet based tool (developed using Microsoft VBA.) It’s 
 
 Pre-requisites: Microsoft Excel 2010 or higher. All 32 and 64 Bit versions supported at December 2021.
 
-WATTwebsite:  www.gm4eau.com
+WATT website:  www.gm4eau.com
 
 The tool offers WSPR data queries using a series of on-screen buttons and forms and by using standard spreadsheet filtering functionality. Additionally, traffic data can be plotted on a world map to view activity over a period of time (e.g. the past 24 hours, past month, etc.) As the timeline progresses, the traffic within each period is plotted (rather like a Weather Rain Radar map.) Users can add their own analysis using standard Excel functionality to provide specific charts/graphs or other results. Full documentation and examples are included within the tool.
 

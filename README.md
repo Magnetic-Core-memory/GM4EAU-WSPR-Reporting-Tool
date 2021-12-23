@@ -1,4 +1,6 @@
 
+WATT - Whisper Analysis and Traffic Tool
+
 WATT is an Excel spreadsheet based tool (developed using Microsoft VBA.) It’s built to view and plot WSPR data held by wsprnet.org. Traffic can be animated or re-played over a time-line up to 30 days. Full Excel spreadsheet functionality is also available to allow ad-hoc analysis of the queried data, and to enhance the tool with new functionality to meet specific requirements. All filteerd/selected data can be dispayed and animated on a world-map. 
 
 Pre-requisites: Microsoft Excel 2010 or higher. All 32 and 64 Bit versions supported at December 2021.
